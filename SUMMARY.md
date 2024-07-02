@@ -4,9 +4,9 @@
 * 哈希
     * [49. 字母异位词分组](hash/49.md)
 * 单调栈
-    * [单调栈 移掉 K 位数字](stack/removeKdigits.md)
-    * [单调栈 不同字符的最小子序列](stack/smallestSubsequence.md)
-    * [单调栈 移除K位数字 二](stack/removeKdigits2.md)
+    * [移掉 K 位数字](stack/removeKdigits.md)
+    * [不同字符的最小子序列](stack/smallestSubsequence.md)
+    * [移除K位数字 二](stack/removeKdigits2.md)
 * 相向双指针
     * [奇偶数分组](opposite_double_pointer/odd_even_number_group.md)
     * [两数之和](opposite_double_pointer/two_sum.md)
