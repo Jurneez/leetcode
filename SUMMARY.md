@@ -17,7 +17,10 @@
     * [最大连续1的个数 III](sliding_window/max-consecutive-ones-iii.md)
     * [438 找到字符串中所有字母异位词](sliding_window/438.md)
 * 矩阵扫描
-    * [甲板上的战舰](matrix_scan/battleships-in-a-board.md)
+    * [甲板上的战舰](matrix_scan/419.md)
+* 二叉树
+     * [实践：从前序与中序遍历序列构造二叉树](binary_tree/105.md)
+     * [102. 二叉树的层序遍历](binary_tree/102.md)
 * 动态规划
     * [322. 零钱兑换](dynamic_programming/322.md)
     * [64. 最小路径和](dynamic_programming/64.md)
@@ -26,7 +29,7 @@
     * [实践：全排列](backtracking/leetcode_permute.md)
     * [实践：全排列 二](backtracking/leetcode_permute_unique.md)
 * 跳跃游戏 系列
-    * [跳跃游戏](jumpgame/jumpgame.md)
-    * [跳跃游戏 II](jumpgame/jumpgame2.md)
-    * [跳跃游戏 III](jumpgame/jumpgame3.md)
-    * [跳跃游戏 V](jumpgame/jumpgame4.md)
+    * [跳跃游戏](jumpgame/55.md)
+    * [跳跃游戏 II](jumpgame/45.md)
+    * [跳跃游戏 III](jumpgame/1306.md)
+    * [跳跃游戏 V](jumpgame/1340.md)
