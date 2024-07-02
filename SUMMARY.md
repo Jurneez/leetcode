@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * 哈希
     * [49. 字母异位词分组](hash/49.md)
-* 栈
+* 单调栈
     * [单调栈 移掉 K 位数字](stack/removeKdigits.md)
     * [单调栈 不同字符的最小子序列](stack/smallestSubsequence.md)
     * [单调栈 移除K位数字 二](stack/removeKdigits2.md)
@@ -15,11 +15,11 @@
 * 滑动窗口
     * [无重复字符的最长子串](sliding_window/longest-substring-without-repeating-characters.md)
     * [最大连续1的个数 III](sliding_window/max-consecutive-ones-iii.md)
-    * [438 找到字符串中所有字母异位词](sliding_window/438.md)
+    * [438.找到字符串中所有字母异位词](sliding_window/438.md)
 * 矩阵扫描
-    * [甲板上的战舰](matrix_scan/419.md)
+    * [419.甲板上的战舰](matrix_scan/419.md)
 * 二叉树
-     * [实践：从前序与中序遍历序列构造二叉树](binary_tree/105.md)
+     * [105. 从前序与中序遍历序列构造二叉树](binary_tree/105.md)
      * [102. 二叉树的层序遍历](binary_tree/102.md)
 * 动态规划
     * [322. 零钱兑换](dynamic_programming/322.md)
@@ -29,7 +29,7 @@
     * [实践：全排列](backtracking/leetcode_permute.md)
     * [实践：全排列 二](backtracking/leetcode_permute_unique.md)
 * 跳跃游戏 系列
-    * [跳跃游戏](jumpgame/55.md)
-    * [跳跃游戏 II](jumpgame/45.md)
-    * [跳跃游戏 III](jumpgame/1306.md)
-    * [跳跃游戏 V](jumpgame/1340.md)
+    * [55 跳跃游戏](jumpgame/55.md)
+    * [45 跳跃游戏 II](jumpgame/45.md)
+    * [1306 跳跃游戏 III](jumpgame/1306.md)
+    * [1340 跳跃游戏 V](jumpgame/1340.md)
