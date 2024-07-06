@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* 数组
+    * [3101. 交替子数组计数](array/3101.md)
 * 哈希
     * [49. 字母异位词分组](hash/49.md)
 * 单调栈
