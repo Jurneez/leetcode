@@ -40,3 +40,5 @@
     * [45 跳跃游戏 II](jumpgame/45.md)
     * [1306 跳跃游戏 III](jumpgame/1306.md)
     * [1340 跳跃游戏 V](jumpgame/1340.md)
+* 数学-曼哈顿距离
+    * [3102. 最小化曼哈顿距离](manhattan/3102.md)
