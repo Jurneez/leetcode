@@ -14,6 +14,8 @@
     * [移掉 K 位数字](stack/removeKdigits.md)
     * [不同字符的最小子序列](stack/smallestSubsequence.md)
     * [移除K位数字 二](stack/removeKdigits2.md)
+* 双指针
+    * [2970. 统计移除递增子数组的数目 I](double_pointer/2970.md)
 * 相向双指针
     * [奇偶数分组](opposite_double_pointer/odd_even_number_group.md)
     * [两数之和](opposite_double_pointer/two_sum.md)
