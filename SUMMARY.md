@@ -4,6 +4,7 @@
 * [算法与数据结构](https://dontgiveup.gitbook.io/suan-fa-he-shu-ju-jie-gou)
 * 数组
     * [3101. 交替子数组计数](array/3101.md)
+    * [189. 轮转数组](array/189.md)
 * 前缀和
     * [303. 区域和检索 - 数组不可变](prefixsum/303.md)
     * [304. 二维区域和检索 - 矩阵不可变](prefixsum/304.md)
